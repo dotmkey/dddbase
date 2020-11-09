@@ -1,0 +1,11 @@
+{
+  "type": "library",
+  "name": "dddbase",
+  "description": "DDD base library for symfony projects",
+  "authors": [
+    {
+      "name": "Dmitrii Korolev",
+      "email": "dotmkey@gmail.com"
+    }
+  ]
+}
